@@ -1,0 +1,5 @@
+SPOTIPY_CLIENT_ID='your_spotify_project_id'
+SPOTIPY_CLIENT_SECRET='your_spotify_proj_secret'
+SPOTIPY_REDIRECT_URI='http://localhost:8888/'
+YTMUSIC_CLIENT_ID='your_yt_client_id'
+YTMUSIC_CLIENT_SECRET='your_yt_client_secret'
